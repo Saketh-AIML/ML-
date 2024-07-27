@@ -4,8 +4,7 @@ Basic Machine Learning models
 Machine Learning Algorithms
 Welcome to the Machine Learning Algorithms repository! This repository contains implementations of various machine learning algorithms, along with detailed explanations and examples.
 
-Table of Contents
-  Introduction
+  Introduction - 
     Algorithms
       Linear Regression
       Logistic Regression
