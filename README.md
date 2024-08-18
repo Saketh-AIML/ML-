@@ -1,4 +1,4 @@
-# ML- Machine Learning
+# ML
 Basic Machine Learning models
 
 Machine Learning Algorithms
